@@ -3,6 +3,14 @@
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
 <img src="./images/screen.png"  />
+![image](https://github.com/user-attachments/assets/c8c4c86c-ef59-48a1-9685-8936aedd4d0f)
+
+![image](https://github.com/user-attachments/assets/ae2eb2f5-cadc-48c8-9c22-8e45cad8ad90)
+
+![image](https://github.com/user-attachments/assets/d23b510a-da42-437e-be4b-f0381ef75439)
+
+![image](https://github.com/user-attachments/assets/afe64f56-e114-4ecd-bbd4-ac88c9a17a2d)
+
 
 ## Features
 
